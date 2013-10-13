@@ -5,10 +5,10 @@
     i18n_domain="collective.js.jasmid">
 
   <browser:page
-    name="example.collective.js.jasmid"
+    name="example-jasmid"
     for="*"
-    class=".package.Example"
-    template="*package.pt"
+    class=".jasmid.Example"
+    template="jasmid.pt"
     permission="zope2.View"
     />
 
