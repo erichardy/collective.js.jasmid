@@ -4,6 +4,7 @@ Introduction
 This module is the integration in plone of the jasmid javascript library.
 
 It is not intended to be used as this : the raw sound is realy horrible !
+Try : @@example-jasmid
 
 This package is the first step to listen midi files without any external plugin.
 
