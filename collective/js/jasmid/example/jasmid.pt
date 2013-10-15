@@ -12,7 +12,6 @@
 	<script type="text/javascript" tal:attributes="src string:${portal_url}/++resource++collective.js.jasmid/js/replayer.js"></script>
 	<script type="text/javascript" tal:attributes="src string:${portal_url}/++resource++collective.js.jasmid/js/synth.js"></script>
 	<script type="text/javascript" tal:attributes="src string:${portal_url}/++resource++collective.js.jasmid/js/audio.js"></script>
-	
 	<script>
        function loadRemote(path, callback) {
                var fetch = new XMLHttpRequest();
@@ -51,7 +50,7 @@
     <tal:main-macro metal:define-macro="main">
         <div tal:replace="structure provider:plone.abovecontenttitle" />
      	This example comes from the example provided in the package containing
-     	the javascript files of jasmid (index.html file).<br />
+     	the javascript files of jasmid (index.html).<br />
      	See :
      	<a href="https://github.com/gasman/jasmid" target="_blank">https://github.com/gasman/jasmid</a>
      	<br />

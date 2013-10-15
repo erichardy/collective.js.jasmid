@@ -7,11 +7,11 @@ It is not intended to be used as this : the raw sound is realy horrible !
 
 This package is the first step to listen midi files without any external plugin.
 
-It is intended to be uses with the package collective.js.midijs which is an integration
+It is intended to be used with the package collective.js.midijs which is an integration
 of the midi libraries provided by MIDIjs : http://mudcu.be/midi-js/
 
-The Plone module is currently in development (on github : https://github.com/erichardy/collective.js.midijs)
-and will be avalable on pypi when usabled.
+This last Plone module is currently in development (on github : https://github.com/erichardy/collective.js.midijs)
+and will be available on pypi soon.
 
 LICENCE
 =======
